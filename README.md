@@ -2,7 +2,7 @@
 
 **Work in Progress**
 
-Fox Loader is a fullscreen animated splash screen for Windows, currently under development. At this stage, the application only displays a splash screen with a custom logo during system startup. The final goal is to replace the shell, and allow for full customization of the splash screen, and management of startup applications through a configuration panel.
+PreShellFX is a fullscreen animated splash screen for Windows, currently under development. At this stage, the application only displays a splash screen with a custom logo during system startup. The final goal is to replace the shell, and allow for full customization of the splash screen, and management of startup applications through a configuration panel.
 
 ---
 
@@ -46,6 +46,14 @@ Only the basic splash screen is implemented.
 
 ---
 
+## Author
+Created by **Kalfox**  
+*A TailCoded Studio Project*  
+<img src="https://storage.googleapis.com/kalfoximg/logos/kalfox-logo.png" alt="Kalfox Logo" width="50" />
+<img src="https://storage.googleapis.com/kalfoximg/logos/tailcoded-logo.png" alt="TailCoded Logo" width="50" />
+
+---
+
 ## License
 
 This project is **not open-source**.
@@ -54,11 +62,3 @@ This project is **not open-source**.
 **You may NOT** copy, modify, or reuse the code **without written permission**
 
 See [LICENSE](LICENSE) for full terms.
-
----
-
-## Author
-Created by **Kalfox**  
-*A TailCoded Studio Project*  
-<img src="https://storage.googleapis.com/kalfoximg/logos/kalfox-logo.png" alt="Kalfox Logo" width="50" />
-<img src="https://storage.googleapis.com/kalfoximg/logos/tailcoded-logo.png" alt="TailCoded Logo" width="50" />
