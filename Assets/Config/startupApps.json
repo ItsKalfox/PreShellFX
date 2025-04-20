@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Spotify",
+    "Path": "C:\\Users\\Nipun\\AppData\\Roaming\\Spotify\\Spotify.exe --autostart --minimized",
+    "Type": "Registry (Current User)",
+    "HoldLoader": true,
+    "DisplayName": "Spotify (Registry (Current User))"
+  },
+  {
+    "Name": "Discord",
+    "Path": "\"C:\\Users\\Nipun\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe --process-start-args --start-minimized",
+    "Type": "Registry (Current User)",
+    "HoldLoader": true,
+    "DisplayName": "Discord (Registry (Current User))"
+  },
+  {
+    "Name": "WallpaperEngine",
+    "Path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe",
+    "Type": "Registry",
+    "HoldLoader": true,
+    "DisplayName": "Wallpaper Engine (Registry (Current User))"
+  },
+  {
+    "Name": "Rainmeter",
+    "Path": "C:\\Program Files\\Rainmeter\\Rainmeter.exe",
+    "Type": "Registry",
+    "HoldLoader": true,
+    "DisplayName": "Rainmeter (Registry (Current User))"
+  },
+  {
+    "Name": "TranslucentTB",
+    "Path": "C:\\Program Files\\WindowsApps\\28017CharlesMilette.TranslucentTB_2024.3.0.0_x64__v826wp6bftszj\\TranslucentTB.exe",
+    "Type": "Registry",
+    "HoldLoader": true,
+    "DisplayName": "TranslucentTB (Registry (Current User))"
+  }
+]
+

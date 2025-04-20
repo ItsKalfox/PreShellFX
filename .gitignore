@@ -1,0 +1,15 @@
+# Ignore build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Others
+*.cache
+*.log
